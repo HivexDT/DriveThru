@@ -1,0 +1,231 @@
+{
+  "menu": {
+    "Juniors": [
+      {
+        "name": "Cheeseburger Jr.",
+        "price": 4.99
+      },
+      {
+        "name": "Crispy Chicken Jr.",
+        "price": 4.99
+      },
+      {
+        "name": "Philly Cheesesteak Jr.",
+        "price": 4.99
+      },
+      {
+        "name": "Chicken Cheesesteak Jr.",
+        "price": 4.99
+      }
+    ],
+    "Chicken Menu": {
+      "Chicken Wings": [
+        {
+          "quantity": "6 PCS",
+          "price": 10.99
+        },
+        {
+          "quantity": "10 PCS",
+          "price": 17.99
+        },
+        {
+          "quantity": "20 PCS",
+          "price": 34.99
+        },
+        {
+          "quantity": "15 PCS",
+          "price": 22.99
+        }
+      ],
+      "Boneless Chicken Wings": [
+        {
+          "quantity": "6 PCS",
+          "price": 10.99
+        },
+        {
+          "quantity": "10 PCS",
+          "price": 17.99
+        },
+        {
+          "quantity": "20 PCS",
+          "price": 34.99
+        },
+        {
+          "quantity": "15 PCS",
+          "price": 22.99
+        }
+      ],
+      "Chicken Nuggets": [
+        {
+          "quantity": "4 PCS",
+          "price": 4.99
+        },
+        {
+          "quantity": "3 PCS",
+          "price": 9.99
+        },
+        {
+          "quantity": "8 PCS",
+          "price": 8.99
+        },
+        {
+          "quantity": "6 PCS",
+          "price": 18.99
+        },
+        {
+          "quantity": "12 PCS",
+          "price": 13.99
+        },
+        {
+          "quantity": "10 PCS",
+          "price": 28.99
+        }
+      ],
+      "Chicken Tenders": [
+        {
+          "quantity": "4 PCS",
+          "price": 4.99
+        },
+        {
+          "quantity": "3 PCS",
+          "price": 9.99
+        },
+        {
+          "quantity": "8 PCS",
+          "price": 8.99
+        },
+        {
+          "quantity": "6 PCS",
+          "price": 18.99
+        },
+        {
+          "quantity": "12 PCS",
+          "price": 13.99
+        },
+        {
+          "quantity": "10 PCS",
+          "price": 28.99
+        }
+      ]
+    },
+    "Loaded Fries": [
+      {
+        "name": "Gyro Loaded Fries",
+        "price": 10.99,
+        "description": "Crispy Student Fries Loaded with Gyros and Topped with Creamy Nacho Cheese!"
+      },
+      {
+        "name": "Philly Loaded Fries",
+        "price": 10.99,
+        "description": "Crispy Student Fries Loaded with Philly Meat and Topped with Creamy Nacho Cheese!"
+      },
+      {
+        "name": "Bacon Loaded Fries",
+        "price": 10.99,
+        "description": "Crispy Student Fries Loaded with Beef Bacon and Topped with Creamy Nacho Cheese!"
+      }
+    ],
+    "Kids Meal": {
+      "price": 8.49,
+      "description": "Student Slider or Crispy Chicken Slider, fries, and juice"
+    },
+    "Sauces": [
+      "Honey Hot",
+      "Buffalo",
+      "BBQ",
+      "Garlic Parmesan",
+      "Spicy BBQ",
+      "Hot",
+      "Mango",
+      "Lemon Pepper Habanero",
+      "Sweet Teriyaki",
+      "Ranch"
+    ],
+    "Specialty Fries": [
+      {
+        "name": "Crazy Chick Fries",
+        "price": 11.99,
+        "description": "Crispy Student Fries Loaded with Chicken, Topped with Creamy Cheese, and your type of 'Regular or Spicy Student Sauce'"
+      },
+      {
+        "name": "School Bus Fries",
+        "price": 15.99,
+        "description": "Crispy Student Fries Loaded with Philly Steak, Beef Bacon, and Gyros topped with Creamy Nacho Cheese!"
+      }
+    ],
+    "Sides": [
+      {
+        "name": "Student Fries",
+        "price": 2.99
+      },
+      {
+        "name": "Cheese cup",
+        "price": 1.00
+      },
+      {
+        "name": "Regular soda can",
+        "price": 2.00
+      },
+      {
+        "name": "Coleslaw Bowl",
+        "price": 3.99
+      },
+      {
+        "name": "Onion Rings",
+        "price": 4.99
+      },
+      {
+        "name": "Mozzarella Sticks",
+        "price": 5.99
+      },
+      {
+        "name": "Cheese Fries",
+        "sizes": {
+          "Medium": 6.99,
+          "Large": null
+        }
+      }
+    ],
+    "Rice Bowls": {
+      "base_price": {
+        "Regular": 11.99,
+        "Large": 17.99
+      },
+      "options": [
+        {
+          "name": "Philly Chicken Rice Bowl",
+          "description": "Fresh Rice Bowl with our classic Philly Chicken meat, lettuce, tomatoes, and white garlic sauce on the side!"
+        },
+        {
+          "name": "Gyro Rice Bowl",
+          "price_adjustment": 1.00,
+          "description": "Fresh Rice Bowl with Gyros, lettuce, tomatoes, and white garlic sauce on the side!"
+        },
+        {
+          "name": "Philly Steak Rice Bowl",
+          "price_adjustment": 1.00,
+          "description": "Fresh Rice Bowl with our classic Philly Steak meat, lettuce, tomatoes, and white garlic sauce on the side!"
+        },
+        {
+          "name": "Combo Rice Bowl",
+          "price_adjustment": 1.50,
+          "description": "Fresh Rice Bowl with our classic Philly Chicken and white meat, lettuce, tomatoes, and white garlic sauce on the side!"
+        }
+      ]
+    },
+    "Wraps": [
+      {
+        "name": "Gyro Wrap",
+        "price": 10.99,
+        "description": "Gyro slices topped with bazuki sauce, tomatoes, onion, wrapped in Pita bread"
+      }
+    ],
+    "Hotdogs": [
+      {
+        "name": "Chicago Style Hotdog",
+        "price": 5.99,
+        "description": "Crilled hot dog topped with pelish, pickle, tomato, onion, sport peppers, and mustard"
+      }
+    ]
+  }
+}

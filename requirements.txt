@@ -1,0 +1,6 @@
+google-cloud-speech
+google-cloud-dialogflow
+google-cloud-texttospeech
+pyaudio
+pydub
+playsound 
